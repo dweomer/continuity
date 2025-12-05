@@ -8,8 +8,8 @@ require (
 	github.com/golang/protobuf v1.3.5
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.8.3
 	github.com/spf13/cobra v1.0.0
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 )
